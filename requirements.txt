@@ -320,7 +320,7 @@ tables @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_81q
 tabulate @ file:///Users/cbousseau/work/recipes/ci_py311/tabulate_1678003852126/work
 tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
 tenacity @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_0ew5sfng29/croot/tenacity_1682972282256/work
-terminado @ file:///Users/cbousseau/work/recipes/ci_py311/terminado_1677918849903/work
+#terminado @ file:///Users/cbousseau/work/recipes/ci_py311/terminado_1677918849903/work
 text-unidecode @ file:///Users/ktietz/demo/mc3/conda-bld/text-unidecode_1629401354553/work
 textdistance @ file:///tmp/build/80754af9/textdistance_1612461398012/work
 threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
